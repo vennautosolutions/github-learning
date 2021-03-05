@@ -10,8 +10,9 @@ Assignments
 Read :
 Git Commands  : add , Commit, push , pull, Branch
 
+5th Assignment
 
-These are my changes from karthick branch
-
-These are my changes from pushpa branch
+1) Create a new Branch  git checkout -b "brach_name"
+2) raise PR
+3) Merge PR and chek if the code changes are merged
 
