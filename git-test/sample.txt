@@ -1,3 +1,4 @@
+Assignments
 1) Install IntelliJ IDE Community Edition
 2) Install Powershell / Install GIT Cli
 3) Create Github Account
@@ -6,7 +7,5 @@
 6) Commit the code
 7) Push the code to master
 
-
-
 Read :
-Git Commands  : add , Commit, push , pull
+Git Commands  : add , Commit, push , pull, Branch
