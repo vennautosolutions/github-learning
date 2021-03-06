@@ -16,3 +16,13 @@ Git Commands  : add , Commit, push , pull, Branch
 2) raise PR
 3) Merge PR and chek if the code changes are merged
 
+git Commands :
+
+git status ( to see the what files changed)
+git add . ( add to the local repo ) 
+git commit -m "Hello Message" ( Commit to local repo with message)
+git push origin master ( push the code changes to remote url ) 
+git pull origin master ( Update or pull the code changes from the remote url )
+git remote -v ( to see the remote url 
+git diff ( to see the differance between previous commit ) 
+
