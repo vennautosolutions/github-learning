@@ -26,3 +26,6 @@ git pull origin master ( Update or pull the code changes from the remote url )
 git remote -v ( to see the remote url 
 git diff ( to see the differance between previous commit ) 
 
+6th Assignment 
+
+1) Install Jenkins in Your machine --> Google 
