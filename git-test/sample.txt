@@ -34,3 +34,4 @@ git diff ( to see the differance between previous commit )
 1) Create a Free Style Project 
 2) Testing the commit pipeline
 3) Test 2
+4) Test 3
