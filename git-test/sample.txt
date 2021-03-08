@@ -29,3 +29,6 @@ git diff ( to see the differance between previous commit )
 6th Assignment 
 
 1) Install Jenkins in Your machine --> Google 
+
+8th Assignment 
+1) Create a Free Style Project 
