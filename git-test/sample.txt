@@ -32,3 +32,4 @@ git diff ( to see the differance between previous commit )
 
 8th Assignment 
 1) Create a Free Style Project 
+2) Testing the commit pipeline
