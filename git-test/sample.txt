@@ -33,3 +33,9 @@ git diff ( to see the differance between previous commit )
 8th Assignment 
 1) Create a Free Style Project 
 2) Integrate Github with Jenkisn for every Commit { Trigger Build Forevery commit to Github }
+
+10th Assignment 
+1) Create AWS Account 
+2) Create an EC2 Instance with Ubuntu OS 1 cpu and 1GB RAM which is free tier 
+3) Install Jenkins in Ubuntu 
+
