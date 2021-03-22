@@ -52,3 +52,11 @@ sudo apt-get install jenkins
 1) https://howtodoinjava.com/java/library/docker-hello-world-example/#create-docker-image
 2) Read Containerization 
 3) Read Docker 
+
+23rd Assignment 
+1) Download the Hello-docker-world code 
+2) Run it in locally  
+3) Observe the HTTP Code 
+4) Study on HTTP Method { GET , POST , DELETE, UPDATE, OPTIONS }
+5) Readmore about Dockers 
+
