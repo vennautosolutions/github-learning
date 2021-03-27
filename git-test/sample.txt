@@ -60,3 +60,21 @@ sudo apt-get install jenkins
 4) Study on HTTP Method { GET , POST , DELETE, UPDATE, OPTIONS }
 5) Readmore about Dockers 
 
+27th Assignemnts 
+1) Install Dockers https://docs.docker.com/docker-f or-windows/install/
+2) https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
+3) Install Nginx Docker 
+4) Try to Access the logs 
+   docker run --name some-nginx -d -p 8080:80 some-content-nginx 
+   docker ps 
+   docker logs -f <container_id>
+   http:localhost:7777
+   
+   install ngrok 
+   ./ngrok http 7777
+   
+   Hit that ip and check the results 
+   
+   
+   
+
