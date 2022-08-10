@@ -10,8 +10,77 @@ Assignments
 Read :
 Git Commands  : add , Commit, push , pull, Branch
 
+5th Assignment
 
-These are my changes from karthick branch
+1) Create a new Branch  git checkout -b "brach_name"
+2) raise PR
+3) Merge PR and chek if the code changes are merged
 
-These are my changes from pushpa branch
+git Commands :
+
+git status ( to see the what files changed)
+git add . ( add to the local repo ) 
+git commit -m "Hello Message" ( Commit to local repo with message)
+git push origin master ( push the code changes to remote url ) 
+git pull origin master ( Update or pull the code changes from the remote url )
+git remote -v ( to see the remote url 
+git diff ( to see the differance between previous commit ) 
+
+6th Assignment 
+
+1) Install Jenkins in Your machine --> Google 
+
+8th Assignment 
+1) Create a Free Style Project 
+2) Integrate Github with Jenkisn for every Commit { Trigger Build Forevery commit to Github }
+
+10th and 11th Assignment 
+1) Create AWS Account 
+2) Create an EC2 Instance with Ubuntu OS 1 cpu and 1GB RAM which is free tier 
+3) Install Jenkins in Ubuntu 
+sudo apt update
+sudo apt install openjdk-11-jdk
+wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ > \
+    /etc/apt/sources.list.d/jenkins.list'
+sudo apt-get update
+sudo apt-get install jenkins
+
+4) Create a Security and restrict only to your network 
+
+15th Assignments
+1) https://howtodoinjava.com/java/library/docker-hello-world-example/#create-docker-image
+2) Read Containerization 
+3) Read Docker 
+
+23rd Assignment 
+1) Download the Hello-docker-world code 
+2) Run it in locally  
+3) Observe the HTTP Code 
+4) Study on HTTP Method { GET , POST , DELETE, UPDATE, OPTIONS }
+5) Readmore about Dockers 
+
+27th Assignemnts 
+1) Install Dockers https://docs.docker.com/docker-f or-windows/install/
+2) https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
+3) Install Nginx Docker 
+4) Try to Access the logs 
+   docker run --name some-nginx -d -p 8080:80 some-content-nginx 
+   docker ps 
+   docker logs -f <container_id>
+   http:localhost:7777
+   
+   install ngrok 
+   ./ngrok http 7777
+   
+   Hit that ip and check the results 
+   
+   
+7th Assignment 
+Docker CMD : https://docs.docker.com/engine/reference/builder/
+
+https://medium.com/myriatek/using-docker-to-run-a-simple-nginx-server-75a48d74500b#:~:text=We%20can%20use%20the%20nginx,Lets%20create%20the%20index. 
+https://runnable.com/docker/java/dockerize-your-java-application
+
+
 
